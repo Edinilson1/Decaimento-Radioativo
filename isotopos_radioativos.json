@@ -1,0 +1,122 @@
+[
+    {
+        "isótopo": "Uranio-238",
+        "meia_vida_segundos": 1.41e17
+    },
+    {
+        "isótopo": "Uranio-235",
+        "meia_vida_segundos": 2.22e16
+    },
+    {
+        "isótopo": "Plutonio-239",
+        "meia_vida_segundos": 7.60e11
+    },
+    {
+        "isótopo": "Torio-232",
+        "meia_vida_segundos": 4.43e17
+    },
+    {
+        "isótopo": "Carbono-14",
+        "meia_vida_segundos": 1.81e11
+    },
+    {
+        "isótopo": "Trítio (H-3)",
+        "meia_vida_segundos": 3.87e8
+    },
+    {
+        "isótopo": "Radônio-222",
+        "meia_vida_segundos": 3.29e5
+    },
+    {
+        "isótopo": "Césio-137",
+        "meia_vida_segundos": 9.52e8
+    },
+    {
+        "isótopo": "Estrôncio-90",
+        "meia_vida_segundos": 8.99e8
+    },
+    {
+        "isótopo": "Iodo-131",
+        "meia_vida_segundos": 6.93e5
+    },
+    {
+        "isótopo": "Polônio-210",
+        "meia_vida_segundos": 1.19e7
+    },
+    {
+        "isótopo": "Cobalto-60",
+        "meia_vida_segundos": 1.66e8
+    },
+    {
+        "isótopo": "Radium-226",
+        "meia_vida_segundos": 5.29e9
+    },
+    {
+        "isótopo": "Amerício-241",
+        "meia_vida_segundos": 4.32e11
+    },
+    {
+        "isótopo": "Curium-244",
+        "meia_vida_segundos": 2.22e11
+    },
+    {
+        "isótopo": "Neptúnio-237",
+        "meia_vida_segundos": 7.49e12
+    },
+    {
+        "isótopo": "Francio-223",
+        "meia_vida_segundos": 2.35e2
+    },
+    {
+        "isótopo": "Protactínio-231",
+        "meia_vida_segundos": 3.99e14
+    },
+    {
+        "isótopo": "Polônio-209",
+        "meia_vida_segundos": 3.15e13
+    },
+    {
+        "isótopo": "Rádio-223",
+        "meia_vida_segundos": 1.03e6
+    },
+    {
+        "isótopo": "Radônio-220",
+        "meia_vida_segundos": 5.52e1
+    },
+    {
+        "isótopo": "Actínio-227",
+        "meia_vida_segundos": 3.38e8
+    },
+    {
+        "isótopo": "Bismuto-214",
+        "meia_vida_segundos": 1.67e3
+    },
+    {
+        "isótopo": "Bário-133",
+        "meia_vida_segundos": 2.51e8
+    },
+    {
+        "isótopo": "Samário-147",
+        "meia_vida_segundos": 4.37e16
+    },
+    {
+        "isótopo": "Hafnio-178m2",
+        "meia_vida_segundos": 2.64e8
+    },
+    {
+        "isótopo": "Radônio-219",
+        "meia_vida_segundos": 2.91e-1
+    },
+    {
+        "isótopo": "Ródio-101m",
+        "meia_vida_segundos": 4.92e4
+    },
+    {
+        "isótopo": "Zinco-65",
+        "meia_vida_segundos": 1.99e6
+    },
+    {
+        "isótopo": "Cobre-64",
+        "meia_vida_segundos": 1.99e6
+    }
+]
