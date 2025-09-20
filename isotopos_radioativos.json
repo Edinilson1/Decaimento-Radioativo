@@ -118,5 +118,57 @@
     {
         "isótopo": "Cobre-64",
         "meia_vida_segundos": 1.99e6
+    },
+    {
+        "isótopo": "Potássio-40",
+        "meia_vida_segundos": 1.27e16
+    },
+    {
+        "isótopo": "Estrôncio-89",
+        "meia_vida_segundos": 7.84e6
+    },
+    {
+        "isótopo": "Tálio-204",
+        "meia_vida_segundos": 7.12e7
+    },
+    {
+        "isótopo": "Telúrio-128",
+        "meia_vida_segundos": 7.93e24
+    },
+    {
+        "isótopo": "Plutônio-241",
+        "meia_vida_segundos": 2.38e10
+    },
+    {
+        "isótopo": "Uranio-234",
+        "meia_vida_segundos": 7.92e15
+    },
+    {
+        "isótopo": "Bismuto-210",
+        "meia_vida_segundos": 1.22e6
+    },
+    {
+        "isótopo": "Actínio-225",
+        "meia_vida_segundos": 2.55e5
+    },
+    {
+        "isótopo": "Césio-134",
+        "meia_vida_segundos": 1.03e8
+    },
+    {
+        "isótopo": "Iodo-129",
+        "meia_vida_segundos": 5.06e15
+    },
+    {
+        "isótopo": "Samário-146",
+        "meia_vida_segundos": 7.09e16
+    },
+    {
+        "isótopo": "Rádio-224",
+        "meia_vida_segundos": 2.24e5
+    },
+    {
+        "isótopo": "Francio-221",
+        "meia_vida_segundos": 3.02
     }
 ]
