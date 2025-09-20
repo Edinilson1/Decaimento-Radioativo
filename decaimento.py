@@ -2,7 +2,7 @@ from InquirerPy import inquirer
 import json
 import time
 
-tempo = ["0.001x", "0.01x", "0.1x", "1x", "10x", "100x", "1000x", "10000x", "100000x"]
+tempo = ["0.001x", "0.01x", "0.1x", "1x", "10x", "100x", "1000x", "10000x", "100000x", "1000000x", "10000000x", "100000000x", "1000000000x"]
 
 with open("isotopos_radioativos.json", "r", encoding="utf-8") as f:
     dados = json.load(f)
